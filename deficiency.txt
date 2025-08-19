@@ -1,0 +1,15 @@
+ # ===============================
+# Face Door Look – Dependencies
+# ===============================
+
+# ---- Python (run these in venv) ----
+opencv-python
+numpy
+requests
+facenet-pytorch
+torch
+torchvision
+torchaudio
+
+# Optional (अगर GUI errors आए तो)
+Pillow
